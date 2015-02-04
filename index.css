@@ -11,11 +11,19 @@ body {
     position: absolute;
     top: 0px;
 }
-#navlist li, #navlist a {
+
+#navlist li {
     margin: 0 auto;
     height: 243px;
-    display: block;
+    display:inline;
 }
+
+#navlist a {
+    margin: 0 auto;
+    height: 243px;
+    display:inline-block;
+}
+
 #pre {
     left: 38px;
     top: 43px;
