@@ -4,13 +4,6 @@ body {
 #navlist {
     position: relative;
 }
-#navlist li {
-    margin: 0 auto;
-    padding: 0;
-    list-style: none;
-    position: absolute;
-    top: 0px;
-}
 
 #navlist li {
     margin: 0 auto;
