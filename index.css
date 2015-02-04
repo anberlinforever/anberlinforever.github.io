@@ -129,9 +129,6 @@ body {
     height: 314px;
     background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -350px 0px;
 }
-#matt a:hover {
-    background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -350px -400px;
-}
 #credt {
     left: 257px;
     top: 380px;
@@ -139,15 +136,18 @@ body {
     height: 22px;
     background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -257px 0px;
 }
-#credt a:hover {
-    background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -257px -400px;
-}
 #credm {
     left:472px
     top:380px
     width:259px;
     height: 22px;
     background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -472px 0px;
+}
+#matt a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -350px -400px;
+}
+#credt a:hover {
+    background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -257px -400px;
 }
 #credm a:hover {
     background: url('https://anberlinforever.files.wordpress.com/2015/02/matt2.jpg') -472px -400px;
