@@ -132,3 +132,25 @@ body {
 #matt a:hover {
     background: url('https://anberlinforever.files.wordpress.com/2015/01/matt.jpg') -350px -350px;
 }
+
+#navlist3 {
+    position: relative;
+}
+#navlist3 li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 593px;
+}
+#navlist2 li, #navlist2 a {
+    height: 40px;
+    display: block;
+}
+#cred {
+    left: 0px;
+    top: 0px;
+    width: 600px;
+    height: 40px;
+    background: url('https://anberlinforever.files.wordpress.com/2015/02/af-credits.jpg') 0px 0px;
+}
