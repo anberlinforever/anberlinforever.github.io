@@ -116,10 +116,14 @@ body {
     padding: 0;
     list-style: none;
     position: absolute;
-    top: 243px;
+    top: 275px;
 }
-#navlist2 li, #navlist2 a {
+#navlist2 li {
     height: 425px;
+    display: block;
+}
+#navlist2 a {
+    height:350px;
     display: block;
 }
 #matt {
