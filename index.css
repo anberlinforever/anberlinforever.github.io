@@ -136,20 +136,3 @@ body {
 #matt a:hover {
     background: url('https://anberlinforever.files.wordpress.com/2015/02/matt3.jpg') -350px -425px;
 }
-
-
-* {
-margin: 0;
-}
-html, body {
-height: 100%;
-}
-.wrapper {
-min-height: 100%;
-height: auto !important;
-height: 100%;
-margin: 0 auto -4em;
-}
-.footer, .push {
-height: 4em;
-}
